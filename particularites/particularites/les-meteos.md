@@ -1,0 +1,23 @@
+---
+description: Spécificité du rôle Solitaire le Météorologue
+---
+
+# Les Météos
+
+{% hint style="info" %}
+Ce rôle peut définir un ordre des 4 météos suivantes: La <mark style="color:red;">**Canicule**</mark>, La pluie <mark style="color:blue;">**Torrentielle**</mark>, La <mark style="color:yellow;">**Moisson**</mark>, La <mark style="color:green;">**Tempête**</mark>.
+{% endhint %}
+
+Chacune de ses météos influence l'élément auquel il est relié:
+
+* La <mark style="color:red;">**Canicule**</mark> --> La <mark style="color:red;">**Nation du Feu**</mark>
+* La <mark style="color:blue;">**pluie Torrentielle**</mark> --> Les <mark style="color:blue;">**Tribus de l'eau**</mark>
+* La <mark style="color:yellow;">**Moisson**</mark> --> Le <mark style="color:yellow;">**Royaume de la Terre**</mark>
+* La <mark style="color:green;">**Tempête**</mark> --> Les <mark style="color:green;">**Nomades de l'air**</mark>
+
+|                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| La <mark style="color:red;">**Canicule**</mark>:            | <p>Permet à la plupart des rôles de la <mark style="color:red;"><strong>Nation du Feu</strong></mark> d'obtenir l'effet <mark style="color:red;">Force I</mark> de plus de manière passive ils obtiennent 50% de dégâts de feu en moins et 7% de chance d'enflammer un adversaire en le frappant.<br>Pour le <mark style="color:orange;"><strong>Météorologue</strong></mark> il obtient en plus l'effet <mark style="color:red;">Force I</mark>.</p>                                                                                                                        |
+| La <mark style="color:blue;">**pluie Torrentielle**</mark>: | <p>Permet à la plupart des rôles de la <mark style="color:blue;"><strong>Tribu de l'Eau</strong></mark> de recevoir des effets de plus, il leur octroie une régénération naturelle à hauteur de 1/2 cœur toutes les 20 secondes, leur sceau d'eau se remplisse tout seul au bout de 20 secondes. Pendant cette météo le <mark style="color:red;"><strong>feu</strong></mark> devient inefficace.<br>Pour le <mark style="color:purple;"><strong>Météorologue</strong></mark> il obtient en plus l'enchantement <mark style="color:blue;">Depth Strider II</mark>.</p>        |
+| La <mark style="color:yellow;">**Moisson**</mark>:          | <p>Permet à la plupart des rôles du <mark style="color:yellow;"><strong>Royaume de la Terre</strong></mark> de recevoir leurs effets de plus sur la terre et l'herbe il gagne de manière passive 5% de <mark style="color:blue;">Résistance</mark>. De plus durant cette période les bonus liés aux <mark style="color:orange;"><strong>esprits</strong></mark> sont boostés de moitié.<br>Pour le <mark style="color:orange;"><strong>Météorologue</strong></mark> les boost procurés par cette <mark style="color:purple;"><strong>météo</strong></mark> sont doublés.</p> |
+| La <mark style="color:green;">**Tempête**</mark>:           | <p>Octroie <mark style="color:green;">No Fall</mark> et 7% de <mark style="color:yellow;">Speed</mark> supplémentaires à tout les rôles issues des <mark style="color:green;"><strong>Nomades de l'Air</strong></mark>.<br>Pour le <mark style="color:orange;"><strong>Météorologue</strong></mark>, les % de <mark style="color:yellow;">Speed</mark> sont augmenté à 21%.</p>                                                                                                                                                                                              |
