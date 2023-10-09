@@ -15,7 +15,7 @@ Vous possédez plusieurs types d'armes vous étant offertes dès l'annonce des r
 * Les couteaux ( Cooldown: 5 minutes ) Toutes les 5 minutes vous pouvez obtenir une <mark style="color:blue;">Tranchant VI</mark> en Fer avec 25 de durabilité. &#x20;
 * Les talons aiguilles ( Cooldown 2 minutes ) Vous pouvez avec un clique droit sur cet item obtenir <mark style="color:green;">No Fall</mark> pendant 20 secondes.
 
-Si <mark style="color:red;">**Ty Lee**</mark> vient à mourir vous récupérez l'effet <mark style="color:yellow;">Speed I</mark> le jour, la nuit vous verrez immunisé à la <mark style="color:red;">Force</mark> de vos adversaires mais prendrez 35% de dégâts en plus par <mark style="color:red;">**Zuko**</mark> si il n'appartient à la <mark style="color:red;">**Nation du Feu**</mark>.
+Si <mark style="color:red;">**Ty Lee**</mark> vient à mourir vous récupérez l'effet <mark style="color:yellow;">Speed I</mark> le jour, la nuit vous verrez immunisé à la <mark style="color:red;">Force</mark> de vos adversaires mais prendrez 35% de dégâts en plus par <mark style="color:red;">**Zuko**</mark> si il n'appartient pas à la <mark style="color:red;">**Nation du Feu**</mark>.
 
 {% hint style="info" %}
 <mark style="color:red;">**Azula**</mark> obtient soit votre identité soit celle de <mark style="color:red;">**Ty Lee**</mark>.
