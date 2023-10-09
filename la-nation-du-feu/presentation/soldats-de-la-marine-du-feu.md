@@ -5,7 +5,7 @@ description: Soldats basique
 # Soldats de la Marine du Feu
 
 {% hint style="info" %}
-Vous possédez 10 % de <mark style="color:red;">Force</mark> proche d'un gradé de l'armée de la <mark style="color:red;">**Nation du Feu**</mark> ( peut aller jusqu'à 20% )&#x20;
+Vous possédez 10 % de <mark style="color:red;">Force</mark> proche d'un gradé de l'armée de la <mark style="color:red;">**Nation du Feu**</mark> à moins de 25 block ( peut aller jusqu'à 20% )&#x20;
 {% endhint %}
 
 ( <mark style="color:red;">**Iroh, Zhao, Piandao, Azula, Zuko, Ozai**</mark> )&#x20;
