@@ -23,7 +23,7 @@ Pour être au courant du nombre de coup, vous voyez le nombre de coup mis à l'�
 {% endhint %}
 
 {% hint style="success" %}
-Vous obtenez l'identité aléatoire d'un membre de la <mark style="color:red;">**famille royale de la nation du feu**</mark>.
+Vous obtenez l'identité aléatoire d'un membre de la <mark style="color:red;">**famille royale de la nation du feu**</mark>. En tant que membre de la <mark style="color:red;">**Famille royale de la nation du feu**</mark> vous apparaissez dans la liste du roi de la <mark style="color:red;">**Nation du Feu**</mark> <mark style="color:red;">**Ozai**</mark> et obtenez son identité<mark style="color:red;">**.**</mark>
 {% endhint %}
 
 <figure><img src="https://i.pinimg.com/originals/7a/6b/7f/7a6b7fd22ba64b7f9ce565b0b90e9969.jpg" alt="" width="375"><figcaption></figcaption></figure>

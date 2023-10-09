@@ -5,14 +5,14 @@ description: Frère de Katara
 # Sokka
 
 {% hint style="info" %}
-Vous possédez 12 cœurs ainsi qu'une épée en diamant <mark style="color:blue;">**Sharpness III.**</mark>
+Vous possédez <mark style="color:purple;">12 cœurs</mark> ainsi qu'une épée en diamant <mark style="color:blue;">**Sharpness III.**</mark>
 {% endhint %}
 
 {% hint style="success" %}
 Vous obtenez l'identité de <mark style="color:blue;">**Katara**</mark> votre soeur à l'annonce des rôles.
 {% endhint %}
 
-|                                          |                                |
+| Action                                   | Valeur                         |
 | ---------------------------------------- | ------------------------------ |
 | Craft un livre                           | 2 points de QI supplémentaires |
 | Enchanter un livre                       | 1 points de QI supplémentaires |

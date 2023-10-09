@@ -1,5 +1,7 @@
 ---
-description: Particularité propre à certains rôle comme Sokka ou le Mécanicien
+description: >-
+  Particularité propre à certains rôle comme Sokka ou le Mécanicien et l'Homme
+  explosif
 ---
 
 # Les Mécaniciens et le QI

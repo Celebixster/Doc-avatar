@@ -6,6 +6,8 @@ description: Avatar
 
 {% hint style="info" %}
 Vous possédez <mark style="color:yellow;">**Speed I**</mark> permanent ainsi que l'annulation de vos dégâts de chute.
+
+Si vous devenez l'<mark style="color:blue;">**Avatar**</mark> vous obtenez les effets <mark style="color:red;">Force I</mark> et <mark style="color:blue;">Résistance I</mark> permanent.
 {% endhint %}
 
 Vous possédez un bâton enchanté qui avec un clic droit vous permettra de bondir pour escalader les surfaces escarpés. ( Cooldown 5 minutes )

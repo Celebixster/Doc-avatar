@@ -10,7 +10,7 @@ Vous possédez les effets <mark style="color:red;">Force I</mark>, <mark style="
 
 Vous obtenez à l'annonce des rôles la liste des 5 joueurs faisant partie de votre groupe de rebelles.&#x20;
 
-Votre objectif sera d'en convertir l'un d'entre eux à votre cause pour cela vous devrez soit le tuer soit réaliser la commande <mark style="color:orange;">**/av rebelle**</mark> \<pseudo> puis rester 5 minutes à côté de celui ci.&#x20;
+Votre objectif sera d'en **convertir l'un d'entre eux à votre cause** pour cela vous devrez soit le tuer soit réaliser la commande <mark style="color:orange;">**/av rebelle**</mark> \<pseudo> puis rester 5 minutes à côté de celui ci.&#x20;
 
 Quand l'infection se terminera vous perdrez un nombre de cœur qui dépend de la puissance du rôle que vous infectez, vous obtiendrez également un pouvoir différent en fonction du rôle infecté.
 

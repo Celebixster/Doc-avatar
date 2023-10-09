@@ -28,6 +28,10 @@ Vous possédez deux pouvoirs élémentaires.
 | <p>Pouvoir élémentaire:<br>La mort par les flammes</p> | <p>Vous mélangez la hotbar du joueur ciblé. <br>( Cooldown: 10 minutes )</p>                                                                                                                                                                                           |
 | <p>Pouvoir élémentaire:<br>La couronne de Foudre</p>   | <p>Tout les joueurs vous frappant se verront écoper des effets <mark style="color:blue;">Blindness</mark> et <mark style="color:blue;">Weakness I</mark> pendant 6 secondes ( se cumulent à chaque coup ) et ce pouvoir dure 1 minute.<br>( Cooldown: 12 minutes )</p> |
 
+{% hint style="info" %}
+Vous possédez la commande <mark style="color:red;">**/av déduction**</mark> si vous parvenez à l'utiliser sur <mark style="color:red;">**Ursa**</mark> avant 1 heure de jeu vous verrez les cooldowns sur vos pouvoirs réduit de 4 minutes chacun.
 
+( 1 essai )
+{% endhint %}
 
 <figure><img src="https://www.dandwiki.com/w/images/e/e9/Fire_Lord_Ozai.png" alt=""><figcaption></figcaption></figure>

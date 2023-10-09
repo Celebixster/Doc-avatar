@@ -5,7 +5,7 @@ description: Maîtresse élémentaire de L'eau
 # Katara
 
 {% hint style="info" %}
-Vous possédez <mark style="color:blue;">**Respiration**</mark> permanent ainsi que deux cœurs supplémentaires.
+Vous possédez <mark style="color:blue;">**Respiration**</mark> permanent ainsi que <mark style="color:purple;">deux cœurs</mark> supplémentaires.
 {% endhint %}
 
 Vous recevez un livre <mark style="color:blue;">**Depth Strider III**</mark> ainsi que 15% de <mark style="color:yellow;">**Vitesse**</mark> lors de la <mark style="color:blue;">**pluie Torrentielle**</mark> ou lorsque vous êtes dans l'eau ou dans un biome Marais.

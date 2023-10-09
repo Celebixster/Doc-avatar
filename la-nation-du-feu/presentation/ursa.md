@@ -15,6 +15,10 @@ Tant que vos enfants <mark style="color:red;">**Zuko**</mark> et <mark style="co
 
 A chaque kill dans une forme vous gagnerez 45 secondes d'utilisation supplémentaires de cette forme par épisode.
 
+{% hint style="danger" %}
+En cas de mort de l'un de vos enfants vous obtiendrez l'identité de son assassin et si vous parvenez à l'éliminer vous récupérez la forme correspondante à l'enfant éliminer de manière permanente.
+{% endhint %}
+
 {% hint style="info" %}
 En tant que membre de la <mark style="color:red;">**Famille royale de la nation du feu**</mark> vous apparaissez dans la liste du roi de la Nation du Feu <mark style="color:red;">**Ozai**</mark> cependant vous n'obtenez pas son identité.
 {% endhint %}

@@ -16,6 +16,8 @@ Vous obtenez une Epée en Diamant <mark style="color:blue;">Tranchant IV</mark>.
 
 De plus à votre mort les <mark style="color:purple;">**Météos**</mark> disparaîtront ( les <mark style="color:purple;">**Météos**</mark> de cette épisode continueront comme prévu ).
 
+A chaque début d'épisode vous vous verrez attribué l'un des pouvoirs élémentaires de la personne la plus proche de vous ( maximum 50 block ). Vous pourrez user de ce pouvoir 2 fois pendant tout l'épisode après quoi il disparaîtra le temps qu'un nouvel épisode survienne.
+
 {% hint style="success" %}
 Si vous êtes espionnés par un rôle à informations il vous verra comme faisant partie de l'élément représenté par votre <mark style="color:purple;">**Météo**</mark>.
 {% endhint %}
