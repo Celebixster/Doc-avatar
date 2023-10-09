@@ -21,6 +21,7 @@
   * [Ukano](la-nation-du-feu/presentation/ukano.md)
   * [Jee](la-nation-du-feu/presentation/jee.md)
   * [Piandao](la-nation-du-feu/presentation/piandao.md)
+  * [Soldats de la Marine du Feu](la-nation-du-feu/presentation/soldats-de-la-marine-du-feu.md)
 
 ## Alliance des autres Nations
 
