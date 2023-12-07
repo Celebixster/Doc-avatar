@@ -5,19 +5,19 @@ description: Amiral de la Marine du Feu
 # Zhao
 
 {% hint style="info" %}
-Vous possédez l'effet <mark style="color:red;">Force I</mark> sous la <mark style="color:red;">**Canicule**</mark>.
+Vous possédez l'effet <mark style="color:red;">**Force I**</mark> sous la <mark style="color:red;">**Canicule**</mark>.
 {% endhint %}
 
-Vous possédez une barre de progression qui se remplira en fonction de votre temps de survie, de vos assits pour les éliminations ainsi que les kills eux-mêmes.
+**Vous possédez une barre de progression qui se remplira en fonction de votre temps de survie, de vos assits pour les éliminations ainsi que les kills eux-mêmes**.
 
-* Général: Vous ne possédez pas de pouvoir élémentaire.
-* Commandant: Vous obtenez l'effet <mark style="color:red;">Force I</mark> sous le soleil, vous obtenez un pouvoir élémentaire.
-* Amiral: Vous obtenez l'effet <mark style="color:red;">Force I</mark> permanent ainsi qu'un second pouvoir élémentaire de plus le cooldown sur le premier pouvoir est divisé par deux.
+* <mark style="color:red;">**Général**</mark>: Vous ne possédez pas de **pouvoir élémentaire**.
+* <mark style="color:red;">**Commandant**</mark>: Vous obtenez l'effet <mark style="color:red;">**Force I**</mark> sous le :sunny:, vous obtenez **un pouvoir élémentaire**.
+* <mark style="color:red;">**Amiral**</mark>: Vous obtenez l'effet <mark style="color:red;">**Force I**</mark> permanent ainsi qu'un **second pouvoir élémentaire** de plus le **cooldown sur le premier pouvoir est divisé par deux**.
 
-|                                             |                                                                                                                                                                                                                                                                                   |
-| ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>Pouvoir élémentaire:<br>Loups de feu</p> | <p>Vous faites apparaître des loups ( 3 ) possédant les effets <mark style="color:yellow;">Vitesse II</mark> et <mark style="color:blue;">Résistance I</mark> et enflammant les joueurs qu'ils attaquent, ils disparaissent au bout de 2 minutes.<br>( Cooldown: 12 minutes )</p> |
-| <p>Pouvoir élémentaire:<br>Golem de feu</p> | <p>Vous faîtes apparaître un golem qui aura pour mission de vous protéger, il ne pourra pas vous infliger de dégâts et sera automatiquement téléportez sur vous si il est à plus de 10 block.<br>( Cooldown: 8 minutes )</p>                                                      |
+|                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Pouvoir élémentaire</strong>:<br><mark style="color:red;"><strong>Loups de feu</strong></mark></p> | <p>Vous faites apparaître <strong>des loups</strong> ( 3 ) possédant les effets <mark style="color:yellow;">Vitesse II</mark> et <mark style="color:blue;">Résistance I</mark> et <mark style="color:orange;"><strong>enflammant</strong></mark><strong> les joueurs qu'ils attaquent</strong>, ils disparaissent au bout de 2 minutes.<br>( Cooldown: 12 minutes )</p> |
+| <p><strong>Pouvoir élémentaire</strong>:<br><mark style="color:red;"><strong>Golem de feu</strong></mark></p> | <p>Vous faîtes apparaître un <strong>golem</strong> qui aura pour mission de vous protéger, il ne pourra pas vous <strong>infliger de dégâts</strong> et sera automatiquement téléportez sur vous si il est à plus de 10 blocs.<br>( Cooldown: 8 minutes )</p>                                                                                                          |
 
 {% hint style="success" %}
 Vous obtenez l'identité aléatoire d'un membre de la <mark style="color:red;">**famille royale de la nation du feu**</mark>.
