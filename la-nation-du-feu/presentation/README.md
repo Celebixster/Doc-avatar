@@ -11,7 +11,7 @@ Seul <mark style="color:red;">**Ursa**</mark> et <mark style="color:red;">**Zuko
 {% endhint %}
 
 {% hint style="danger" %}
-Cependant attention dans cette liste peut se retrouver jusqu'à 3 traîtres potentiels: <mark style="color:red;">**Roku**</mark> avec le statut de l'<mark style="color:blue;">**Avatar**</mark> ou la <mark style="color:red;">**Comète**</mark>, ainsi que <mark style="color:red;">**Zuko**</mark> et <mark style="color:red;">**Iroh**</mark> pouvant gagner à deux en fonction du pacte de <mark style="color:red;">**Zuko**</mark>.
+Cependant attention dans cette liste peut se trouver jusqu'à 3 traîtres potentiels: <mark style="color:red;">**Roku**</mark> avec le statut de l'<mark style="color:blue;">**Avatar**</mark> ou la <mark style="color:red;">**Comète**</mark>, ainsi que <mark style="color:red;">**Zuko**</mark> et <mark style="color:red;">**Iroh**</mark> pouvant gagner à deux en fonction du pacte de <mark style="color:red;">**Zuko**</mark>.
 {% endhint %}
 
 {% hint style="success" %}
