@@ -22,7 +22,7 @@ A chaque kill dans une forme vous gagnerez **45 secondes d'utilisation suppléme
 {% endhint %}
 
 {% hint style="info" %}
-En tant que membre de la <mark style="color:red;">**Famille royale de la nation du feu**</mark> vous apparaissez dans la liste du <mark style="color:red;">**Roi de la Nation du Feu**</mark> <mark style="color:red;">**Ozai**</mark> cependant vous n'obtenez pas son identité.
+En tant que membre de la <mark style="color:red;">**Famille royale de la nation du feu**</mark> vous apparaissez dans la liste du <mark style="color:red;">**Roi de la Nation du Feu**</mark> <mark style="color:red;">**Ozai**</mark>:fire: cependant vous n'obtenez pas son identité.
 {% endhint %}
 
 {% hint style="success" %}

@@ -5,14 +5,18 @@ description: Epéiste de légende et membre de haut rang du lotus blanc
 # Piandao
 
 {% hint style="info" %}
-Vous possédez l'effet <mark style="color:red;">Force I</mark> permanent.
+Vous possédez l'effet <mark style="color:red;">**Force I**</mark> permanent.
 {% endhint %}
 
-Vous obtenez l'épée "<mark style="color:red;">**Jian**</mark>" qui est une épée en diamant <mark style="color:blue;">Tranchant IV</mark> infligeant un vol de vie permanent à hauteur de 25% de la vie infligé vous sera restauré.
+{% hint style="warning" %}
+Vous obtenez l'épée "<mark style="color:red;">**Jian**</mark>" qui est une épée en diamant <mark style="color:blue;">**Tranchant IV**</mark> infligeant un **vol de vie permanent à hauteur de 25% de la vie infligé vous sera restauré**.
 
-Cette épée a aussi la particularité d'infliger des dégâts doublés sur <mark style="color:orange;">les esprits.</mark> ( sauf <mark style="color:blue;">**Yue**</mark> )
+{% hint style="danger" %}
+Cette épée a aussi la particularité d'infliger **des dégâts doublés** sur <mark style="color:orange;">**les esprits.**</mark>
 
-Cette épée vous permettra également toutes les 2 minutes de vous propulser de 10 block en avant infligeant l'effet <mark style="color:blue;">Slowness I</mark> pendant 12 secondes au joueur frappé après ce pouvoir.
+Cette **épée vous permettra également toutes les 2 minutes de vous propulser de 10 blocs en avant infligeant l'effet **<mark style="color:blue;">**Lenteur I**</mark>** pendant 12 secondes au joueur frappé après ce pouvoir**.
+{% endhint %}
+{% endhint %}
 
 {% hint style="success" %}
 Vous possédez la capacité d'être vue comme un rôle du <mark style="color:yellow;">**Royaume de la Terre**</mark> pour tout les rôles à informations.

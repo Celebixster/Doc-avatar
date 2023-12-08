@@ -5,7 +5,7 @@ description: Amiral de la Marine du Feu
 # Zhao
 
 {% hint style="info" %}
-Vous possédez l'effet <mark style="color:red;">**Force I**</mark> sous la <mark style="color:red;">**Canicule**</mark>.
+Vous possédez l'effet <mark style="color:red;">**Force I**</mark> sous la:thermometer:.
 {% endhint %}
 
 **Vous possédez une barre de progression qui se remplira en fonction de votre temps de survie, de vos assits pour les éliminations ainsi que les kills eux-mêmes**.

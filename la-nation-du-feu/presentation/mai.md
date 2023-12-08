@@ -26,7 +26,7 @@ Si <mark style="color:red;">**Ty Lee**</mark> vient à mourir vous récupérez l
 {% endhint %}
 
 {% hint style="success" %}
-Vous obtenez l'identité aléatoire d'un membre de la <mark style="color:red;">**famille royale de la nation du feu**</mark>. En tant que membre de la <mark style="color:red;">**Famille royale de la nation du feu**</mark> vous apparaissez dans la liste du <mark style="color:red;">**Roi de la**</mark> <mark style="color:red;">**Nation du Feu**</mark> <mark style="color:red;">**Ozai**</mark> et obtenez son identité.
+Vous obtenez l'identité aléatoire d'un membre de la <mark style="color:red;">**famille royale de la nation du feu**</mark>. En tant que membre de la <mark style="color:red;">**Famille royale de la nation du feu**</mark> vous apparaissez dans la liste du <mark style="color:red;">**Roi de la**</mark> <mark style="color:red;">**Nation du Feu**</mark> <mark style="color:red;">**Ozai**</mark>:fire: et obtenez son identité.
 {% endhint %}
 
 <figure><img src="https://66.media.tumblr.com/0d7084dbfe16eec3dae424ad2b817839/tumblr_inline_o0kcg2nBYn1slrvm0_1280.jpg" alt="" width="375"><figcaption></figcaption></figure>
