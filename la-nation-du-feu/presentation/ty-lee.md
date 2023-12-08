@@ -5,7 +5,7 @@ description: Membre du trio infernale avec Azula et Maï
 # Ty Lee
 
 {% hint style="info" %}
-Vous possédez l'effet <mark style="color:yellow;">**Vitesse I**</mark> permanent ainsi que <mark style="color:green;">No Fall</mark>.
+Vous possédez l'effet <mark style="color:yellow;">**Vitesse I**</mark> permanent ainsi que <mark style="color:green;">**No Fall**</mark>.
 {% endhint %}
 
 {% hint style="success" %}

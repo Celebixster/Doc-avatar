@@ -8,11 +8,15 @@ description: Amiral de la Marine du Feu
 Vous possédez l'effet <mark style="color:red;">**Force I**</mark> sous la:thermometer:.
 {% endhint %}
 
+{% hint style="success" %}
 **Vous possédez une barre de progression qui se remplira en fonction de votre temps de survie, de vos assits pour les éliminations ainsi que les kills eux-mêmes**.
 
+{% hint style="warning" %}
 * <mark style="color:red;">**Général**</mark>: Vous ne possédez pas de **pouvoir élémentaire**.
 * <mark style="color:red;">**Commandant**</mark>: Vous obtenez l'effet <mark style="color:red;">**Force I**</mark> sous le :sunny:, vous obtenez **un pouvoir élémentaire**.
 * <mark style="color:red;">**Amiral**</mark>: Vous obtenez l'effet <mark style="color:red;">**Force I**</mark> permanent ainsi qu'un **second pouvoir élémentaire** de plus le **cooldown sur le premier pouvoir est divisé par deux**.
+{% endhint %}
+{% endhint %}
 
 |                                                                                                               |                                                                                                                                                                                                                                                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

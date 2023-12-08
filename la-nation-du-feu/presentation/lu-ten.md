@@ -11,7 +11,7 @@ Vous pouvez activer et désactiver l'effet <mark style="color:orange;">**Fire R�
 {% endhint %}
 
 {% hint style="info" %}
-En tant que membre de la <mark style="color:red;">**Famille royale de la nation du feu**</mark> vous apparaissez dans la liste du <mark style="color:red;">**Roi de la**</mark> <mark style="color:red;">**Nation du Feu**</mark> <mark style="color:red;">**Ozai**</mark> et vous obtenez son identité.
+En tant que membre de la <mark style="color:red;">**Famille royale de la nation du feu**</mark> vous apparaissez dans la liste du <mark style="color:red;">**Roi de la**</mark> <mark style="color:red;">**Nation du Feu**</mark> <mark style="color:red;">**Ozai**</mark>:fire: et vous obtenez son identité.
 {% endhint %}
 
 En tant que <mark style="color:red;">**maître élémentaire du feu**</mark> vous obtenez **deux pouvoirs**:
