@@ -4,7 +4,8 @@ description: Mode de jeu basé sur l'Univers de la période de l'Avatar Aang
 
 # Avatar le dernier maître de l'air.
 
-* Un **épisode** dure **20 minutes**. Les **rôles** sont distribués à la **fin du premier** et ce, de manière **aléatoire**.
+* Un **épisode** dure **20 minutes**. \
+  Les **rôles** sont distribués à la **fin du premier** épisode et ce, de manière **aléatoire**.
 
 {% hint style="danger" %}
 Dans les parties, la communication se fait exclusivement sur le logiciel <mark style="color:red;">**Mumble**</mark>**.**\
