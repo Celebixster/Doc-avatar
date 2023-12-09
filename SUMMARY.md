@@ -76,4 +76,6 @@
   * [Les Mécaniciens et le QI](particularites/particularites/les-mecaniciens-et-le-qi.md)
   * [Les Esprits](particularites/particularites/les-esprits.md)
   * [Les parchemins élémentaires](particularites/particularites/les-parchemins-elementaires.md)
+  * [Le Lotus Blanc](particularites/particularites/le-lotus-blanc.md)
+  * [Les Conditions de Victoire](particularites/particularites/les-conditions-de-victoire.md)
   * [Table des effets](particularites/particularites/table-des-effets.md)

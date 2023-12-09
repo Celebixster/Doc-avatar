@@ -9,7 +9,11 @@ Vous possédez <mark style="color:yellow;">**Vitesse I**</mark> permanent ainsi 
 {% endhint %}
 
 {% hint style="success" %}
+Vous êtes soumis à la condition de l'<mark style="color:blue;">**Avatar**</mark>.
+
+{% hint style="info" %}
 Si vous devenez l'<mark style="color:blue;">**Avatar**</mark> vous obtenez les effets <mark style="color:red;">**Force I**</mark> et <mark style="color:blue;">**Résistance I**</mark> permanent.
+{% endhint %}
 {% endhint %}
 
 {% hint style="warning" %}

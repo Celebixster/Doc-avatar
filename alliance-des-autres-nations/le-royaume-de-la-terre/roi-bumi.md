@@ -1,5 +1,5 @@
 ---
-description: Roi de la cité d'Omashu
+description: Roi de la cité d'Omashu et membre du Lotus Blanc
 ---
 
 # Roi Bumi

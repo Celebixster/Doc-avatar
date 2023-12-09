@@ -9,7 +9,11 @@ Vous possédez l'effet <mark style="color:yellow;">**Vitesse I**</mark> permanen
 {% endhint %}
 
 {% hint style="success" %}
+Vous êtes soumis à la condition de l'<mark style="color:blue;">**Avatar**</mark>.
+
+{% hint style="info" %}
 Vous obtenez l'effet <mark style="color:yellow;">**Vitesse II**</mark> la :last\_quarter\_moon\_with\_face: si vous devenez <mark style="color:blue;">**l'Avatar.**</mark>
+{% endhint %}
 {% endhint %}
 
 Vous êtes soumis à la condition de l'<mark style="color:blue;">Avatar</mark>.

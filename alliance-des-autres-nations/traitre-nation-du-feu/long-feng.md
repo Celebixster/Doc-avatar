@@ -7,17 +7,26 @@ description: >-
 # Long Feng
 
 {% hint style="info" %}
-Vous possédez <mark style="color:purple;">3 cœurs</mark> permanents supplémentaires ainsi que <mark style="color:red;">Force I</mark> sous la <mark style="color:yellow;">**Moisson**</mark>.\
-De plus vos pommes en or vous restaure 2,5 cœurs au lieu de 2.
+Vous possédez 3:heart: permanents supplémentaires ainsi que <mark style="color:red;">**Force I**</mark> sous la :corn:.
 {% endhint %}
 
-Vous obtenez dès l'annonce des rôles une liste de 4 pseudo contenant le pseudo du roi <mark style="color:yellow;">**Kuei**</mark> et <mark style="color:yellow;">**Bumi**</mark>, si vous parvenez à éliminer l'un d'entre eux vous obtiendrez <mark style="color:red;">Force I</mark> permanent.
+{% hint style="success" %}
+De plus vos **pommes en or** vous restaure 2,5:heart: au lieu de 2:heart:.
+{% endhint %}
 
-Vous êtes un maître élémentaire de la Terre:
+{% hint style="danger" %}
+Vous obtenez dès **l'annonce des rôles une liste de 4 pseudo contenant le pseudo du **<mark style="color:yellow;">**Roi**</mark> <mark style="color:yellow;">**Kuei**</mark>** et **<mark style="color:yellow;">**Bumi**</mark>**, si vous parvenez à éliminer l'un d'entre eux vous obtiendrez **<mark style="color:red;">**Force I**</mark>** permanent**.
+{% endhint %}
 
-|                                                              |                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>Pouvoir élémentaire:<br>Les sentinelles de Ba Sing Se</p> | <p>Vous faites apparaître 4 zombies et 4 squelettes full fer attaquant tout les joueurs que vous attaquez.<br>( Cooldown: 6 minutes )</p>                                                                                       |
-| <p>Pouvoir élémentaire:<br>Le retour à la Terre</p>          | <p>Vous pouvez marquez un block en faisant un clique gauche avec votre item et en faisant un clique droit sur ce dernier vous serez re-téléportez sur celui ci ( 1 minute maximum d'intervalle )<br>( Cooldown: 6 minutes )</p> |
+Vous êtes un <mark style="color:yellow;">**maître élémentaire de la Terre**</mark>:corn: qui vous donne des **pouvoirs élémentaires**.
 
-<figure><img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/avatar-long-feng-Cropped.jpg" alt=""><figcaption></figcaption></figure>
+|                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><strong>Pouvoir élémentaire</strong>:<br><mark style="color:yellow;"><strong>Les sentinelles de Ba Sing Se</strong></mark><span data-gb-custom-inline data-tag="emoji" data-code="1f33d">🌽</span></p> | <p>Vous faites apparaître <strong>4 </strong><mark style="color:blue;"><strong>zombies</strong></mark><strong> et 4 </strong><mark style="color:blue;"><strong>squelettes</strong></mark><strong> full fer attaquant tout les joueurs que vous attaquez</strong>.<br>( Cooldown: 6 minutes )</p> |
+| <p><strong>Pouvoir élémentaire</strong>:<br><mark style="color:yellow;"><strong>Le retour à la Terre</strong></mark><span data-gb-custom-inline data-tag="emoji" data-code="1f33d">🌽</span></p>          | <p>Vous pouvez <strong>marquez un bloc en faisant un clique gauche avec votre item et en faisant un clique droit sur ce dernier vous serez re-téléportez sur celui c</strong>i.</p><p>( <strong>1 minute maximum d'intervalle</strong> )<br>( Cooldown: 6 minutes )</p>                          |
+
+{% hint style="success" %}
+Vous obtenez l'identité aléatoire d'un membre de la <mark style="color:red;">**famille royale de la nation du feu**</mark>.
+{% endhint %}
+
+<figure><img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2021/01/avatar-long-feng-Cropped.jpg" alt="" width="375"><figcaption></figcaption></figure>

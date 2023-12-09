@@ -5,21 +5,30 @@ description: Avatar
 # Kuruk
 
 {% hint style="info" %}
-Vous possédez l'effet <mark style="color:yellow;">Speed I</mark> permanent ainsi que <mark style="color:blue;">Résistance I</mark> sous la <mark style="color:blue;">**pluie Torrentielle**</mark>.
+Vous possédez l'effet <mark style="color:yellow;">**Vitesse I**</mark> permanent ainsi que <mark style="color:blue;">**Résistance I**</mark> sous la :droplet:.
 {% endhint %}
 
-Vous obtenez un livre <mark style="color:blue;">Depth Strider II</mark>.
+{% hint style="success" %}
+Vous obtenez un livre <mark style="color:blue;">**Depth Strider II**</mark>.
+{% endhint %}
 
-Vous possédez deux pouvoirs élémentaires.
+{% hint style="success" %}
+Vous êtes soumis à la condition de l'<mark style="color:blue;">**Avatar**</mark>.
 
-|                                                                  |                                                                                                                                                                                                                                                                                              |
-| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pouvoir élémentaire : <mark style="color:blue;">Blizzard</mark>  | Vous déclenchez une pluie de particules blanches en forme de flocons ( neiges ) qui infligent 0,5 cœur de dégâts lors qu'elle touche un joueur ne maitrisant pas l'eau ( avatar compris ), ils seront ensuite stun pendant 0,5 secondes. Le blizzard dure 12 secondes ( cooldown 5 minutes ) |
-| Pouvoir élémentaire: <mark style="color:blue;">Submersion</mark> | Vous faites apparaître une couche d'eau de 3 d'épaisseur dans un rayon de 50 block tout autour de vous, cette zone s'évapore au bout de 1 minute. ( Cooldown: 10 minutes  )                                                                                                                  |
+{% hint style="danger" %}
+Votre passif le <mark style="color:blue;">**/av frost**</mark>:snowflake: devient permanent si vous devenez l'<mark style="color:blue;">**Avatar**</mark>.
+{% endhint %}
+{% endhint %}
 
-Vous possédez la commande <mark style="color:blue;">**/av frost**</mark> permettant de transformer en block de glace n'importe quelle source d'eau et de lave, durant cette période vous devenez immunisé aux dégâts du feu.\
-Passif activable 1 minute 30 par épisode et devenant permanent si vous devenez l'<mark style="color:blue;">**Avatar**</mark>.
+{% hint style="info" %}
+Vous possédez la commande <mark style="color:blue;">**/av frost**</mark>:snowflake: **permettant de transformer en **<mark style="color:blue;">**bloc de glace**</mark>** n'importe quelle source d'**<mark style="color:blue;">**eau**</mark>** et de **<mark style="color:orange;">**lave**</mark>, durant cette période **vous devenez **<mark style="color:orange;">**immunisé aux dégâts du feu**</mark>.
+{% endhint %}
 
-Vous êtes soumis à la condition de l'<mark style="color:blue;">**Avatar**</mark><mark style="color:blue;">.</mark>
+Vous possédez en tant que <mark style="color:blue;">**maître élémentaire de l'eau**</mark>:ocean: deux **pouvoirs élémentaires**.
+
+|                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Pouvoir élémentaire</strong>: </p><p><mark style="color:blue;"><strong>Blizzard</strong></mark><span data-gb-custom-inline data-tag="emoji" data-code="2744">❄</span></p>     | <p><strong>Vous déclenchez une pluie de particules blanches en forme de flocons</strong> ( neiges ) qui infligent 1/2<span data-gb-custom-inline data-tag="emoji" data-code="2764">❤</span> de <strong>dégâts lors qu'elle touche un joueur ne maitrisant pas l</strong><mark style="color:blue;"><strong>'eau</strong></mark> ( <mark style="color:blue;"><strong>Avatar</strong></mark><strong> ex clu</strong> ), ils seront ensuite <strong>stun pendant 0,5 secondes</strong>. Le <mark style="color:blue;"><strong>blizzard</strong></mark><span data-gb-custom-inline data-tag="emoji" data-code="2744">❄</span> dure <strong>12 secondes.</strong> </p><p>( Cooldown 5 minutes )</p> |
+| <p><strong>Pouvoir élémentaire</strong>: </p><p><mark style="color:blue;"><strong>Submersion</strong></mark><span data-gb-custom-inline data-tag="emoji" data-code="1f30a">🌊</span></p> | <p>Vous faites <strong>apparaître une couche d'</strong><mark style="color:blue;"><strong>eau</strong></mark><strong> de 3 d'épaisseur dans un rayon de 50 blocs tout autour de vous, cette zone s'évapore au bout de 1 minute</strong>. </p><p>( Cooldown: 10 minutes  )</p>                                                                                                                                                                                                                                                                                                                                                                                                                |
 
 <figure><img src="../../.gitbook/assets/Kuruk.webp" alt=""><figcaption></figcaption></figure>
