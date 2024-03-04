@@ -13,7 +13,7 @@ Vous pouvez activer et désactiver l'effet <mark style="color:orange;">**Fire R�
 Tant que vos enfants <mark style="color:red;">**Zuko**</mark> et <mark style="color:red;">**Azula**</mark> sont en vie vous possédez **une forme représentant chacun de vos enfants** ( **à leur mort cette forme disparaîtra** )( 2 minutes de chaque par épisode )
 
 * La forme <mark style="color:red;">**Zuko**</mark>: Vous octroie 20% de <mark style="color:red;">**Force**</mark> ainsi que 25% de chance <mark style="color:orange;">**d'enflammer**</mark> vos adversaire, vous **outrepassez** les % de <mark style="color:blue;">**Résistance**</mark>.
-* La forme <mark style="color:red;">**Azula**</mark>: Vous octroie 15% de <mark style="color:yellow;">**Vitesse**</mark> ainsi que **50% des dégâts réduit sur les pouvoirs que vous subissez**, de plus vous gagnez 5% de <mark style="color:yellow;">**Vitesse**</mark> supplémentaires permanents par kill ( % appliqué seulement dans cette forme ).
+* La forme <mark style="color:red;">**Azula**</mark>: Vous octroie 15% de <mark style="color:yellow;">**Vitesse**</mark> ainsi qu'une **immunité aux effets négatifs**, de plus vous gagnez 5% de <mark style="color:yellow;">**Vitesse**</mark> supplémentaires permanents par kill ( % appliqué seulement dans cette forme ).
 
 A chaque kill dans une forme vous gagnerez **45 secondes d'utilisation supplémentaires de cette forme par épisode**.
 

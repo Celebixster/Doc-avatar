@@ -9,7 +9,7 @@ Vous possédez l'effet <mark style="color:yellow;">**Vitesse I**</mark> permanen
 {% endhint %}
 
 {% hint style="success" %}
-Votre hitbox est celle d'un <mark style="color:blue;">**Poulet**</mark> (activable) 1 minute par épisode.
+Votre hitbox est celle d'un <mark style="color:blue;">**Poulet**</mark> (banque de temps activable et désactivable) 1 minute par épisode.
 {% endhint %}
 
 {% hint style="warning" %}
