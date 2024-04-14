@@ -10,7 +10,7 @@ Vous possédez l'effet <mark style="color:blue;">**Résistance I**</mark> lors d
 {% endhint %}
 
 {% hint style="warning" %}
-Vous obtenez **une épée en diamant** <mark style="color:blue;">**Tranchant III**</mark> vous permettant avec un clique droit ( Cooldown: 5 minutes, passif activable avec une commande ) de devenir **invulnérable pendant 8 secondes**.
+Vous obtenez **une épée en diamant** <mark style="color:blue;">**Tranchant III**</mark>** renommée **<mark style="color:yellow;">**Eventail**</mark> vous permettant avec un clique droit ( Cooldown: 5 minutes, passif activable avec une commande ) de devenir **invulnérable pendant 8 secondes**.
 {% endhint %}
 
 {% hint style="success" %}

@@ -37,3 +37,7 @@ Le <mark style="color:purple;">**Météorologue**</mark> lui gagnera aléatoirem
 {% hint style="warning" %}
 **Le joueur ayant reçu les 2**:heart: **en tant que chef du Lotus Blanc recevra les coordonnés exact de la mort de chacun des autres membres**.
 {% endhint %}
+
+{% hint style="info" %}
+Liste des rôles étant affecté par cette particularité: Gyatso, Bumi, Thyroux, Paku, Iroh, Jeong Jeong, Piandao et le Météorologue.
+{% endhint %}

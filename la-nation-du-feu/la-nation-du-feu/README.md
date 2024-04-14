@@ -1,8 +1,8 @@
 ---
-description: Descriptif du camp de la Nation du Feu
+description: Explication du fonctionnement du camp
 ---
 
-# Présentation
+# La Nation du Feu
 
 {% hint style="info" %}
 Il y a 3 types de rôles dans la <mark style="color:red;">**Nation du Feu**</mark>, il y a le <mark style="color:red;">**Seigneur du Feu Ozai**</mark> ( les membres de la famille royale et les autres ) qui obtient une liste contenant <mark style="color:red;">**l'Avatar Roku**</mark>, <mark style="color:red;">**Zuko**</mark>, <mark style="color:red;">**Iroh**</mark>, <mark style="color:red;">**Azula**</mark>, <mark style="color:red;">**Ursa**</mark>, <mark style="color:red;">**Lu Ten**</mark>, <mark style="color:red;">**Maï**</mark> et <mark style="color:red;">**Ty Lee**</mark>.

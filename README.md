@@ -27,3 +27,7 @@ De plus ce mode de jeu regorge de particularité comme:
 * <mark style="color:yellow;">**Les Mécaniciens et le QI**</mark>
 * <mark style="color:orange;">**Le spawn des esprits**</mark>
 * <mark style="color:purple;">**Le Lotus Blanc**</mark>
+
+{% hint style="danger" %}
+Attention les **émojis se réfèrent au** <mark style="color:purple;">**Météo**</mark>, donc pour une meilleure **compréhension de l'équilibrage** n'hésitez pas à aller regardez dans les particularités la fiche des [<mark style="color:purple;">**Météos**</mark>](particularites/particularites/les-meteos.md) et de la [<mark style="color:blue;">**table des effets**</mark>](particularites/particularites/table-des-effets.md).
+{% endhint %}

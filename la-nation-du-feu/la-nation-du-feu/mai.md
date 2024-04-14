@@ -13,7 +13,7 @@ Vous possédez une **aptitude pour les armes presque inégalée** mais par ennui
 Vous possédez plusieurs **types d'armes vous étant offertes** dès l'annonce des rôles.
 
 {% hint style="warning" %}
-* **Les shurikens** ( Cooldown: 2 secondes: 10 munitions offertes, après épuisement 2 minutes seront nécessaires pour récupérer à nouveau 10 munitions ), **une fois qu'elles ont touchés un joueurs il perdra 1**:heart: de plus il laissera des **particules de redstone pendant 30 secondes qui vous mèneront au joueur touché**.
+* **Les shurikens** ( Cooldown: 2 secondes: 10 munitions offertes, après épuisement 2 minutes seront nécessaires pour récupérer à nouveau 10 munitions ), **une fois qu'elles ont touchés un joueurs il perdra 1**:heart: de plus il laissera des **particules de redstone pendant 30 secondes qui vous mèneront au joueur touché**. Seul vous verrez ces particules.
 * **Les couteaux** ( Cooldown: 5 minutes ) Toutes les 5 minutes vous pouvez obtenir une <mark style="color:blue;">**Tranchant VI**</mark>** en Fer avec 25 de durabilité**. &#x20;
 * **Les talons aiguilles** ( Cooldown 2 minutes ) Vous pouvez avec un clique droit sur cet item **obtenir **<mark style="color:green;">**No Fall**</mark>** pendant 20 secondes**.
 {% endhint %}

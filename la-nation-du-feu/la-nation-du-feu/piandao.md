@@ -9,7 +9,7 @@ Vous possédez l'effet <mark style="color:red;">**Force I**</mark> permanent.
 {% endhint %}
 
 {% hint style="warning" %}
-Vous obtenez l'épée "<mark style="color:red;">**Jian**</mark>" qui est une épée en diamant <mark style="color:blue;">**Tranchant IV**</mark> infligeant un **vol de vie permanent à hauteur de 25% de la vie infligé vous sera restauré**.
+Vous obtenez l'épée "<mark style="color:red;">**Jian**</mark>" qui est une épée en diamant <mark style="color:blue;">**Tranchant IV**</mark> vous donnant **25% de chance** de vous régénérez **25% de la vie** que vous avez **fait perdre à votre adversaire suite à votre coup d'épée**.
 
 {% hint style="danger" %}
 Cette épée a aussi la particularité d'infliger **des dégâts doublés** sur <mark style="color:orange;">**les esprits.**</mark>

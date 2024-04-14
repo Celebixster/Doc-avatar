@@ -19,7 +19,7 @@ Pour être au courant du nombre de coup, vous **voyez le nombre de coup mis à l
 
 {% hint style="info" %}
 * Au bout de <mark style="color:blue;">**5 coups donnés**</mark> le joueur aura 75% de chance de se voir infliger les effets <mark style="color:blue;">**Lenteur I**</mark> et <mark style="color:blue;">**Faiblesse I**</mark> pendant **10 secondes**.&#x20;
-* Au bout de <mark style="color:blue;">**12 coups donnés**</mark> le joueur aura 75% de chance de se voir rajouter **5 minutes de cooldown à tout ses pouvoirs**. ( **les pouvoirs qui ne sont pas en cooldown se verront rajouter 5 minutes à leur prochaines utilisations** )
+* Au bout de <mark style="color:blue;">**12 coups donnés**</mark> le joueur aura 75% de chance de se voir retourner à 180°.
 * Au bout de <mark style="color:blue;">**20 coups donnés**</mark> le joueur aura 75% de chance de voir **l'objet qu'il tenait en main être enlevé de sa hotbar et mis dans son inventaire**.
 {% endhint %}
 {% endhint %}

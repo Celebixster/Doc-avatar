@@ -22,6 +22,8 @@ Si vous utilisez cette commande sur <mark style="color:yellow;">**Kyoshi**</mark
 
 {% hint style="danger" %}
 Contre 2:heart: permanent 2 fois dans la partie vous pouvez savoir si le joueur possède **d'autre effet que **<mark style="color:red;">**Force**</mark>** en cliquant sur le message dans votre tchat**.
+
+Vous ne saurez pas lequel, ni son niveau.
 {% endhint %}
 
 <figure><img src="https://th.bing.com/th/id/OIP.FSUXUNAGYX9PtuluHDOogwHaLH?pid=ImgDet&#x26;rs=1" alt=""><figcaption></figcaption></figure>

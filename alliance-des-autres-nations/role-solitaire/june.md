@@ -12,6 +12,10 @@ Vous possédez les effets <mark style="color:yellow;">**Vitesse I**</mark>, <mar
 Vous êtes un traître au sein de la <mark style="color:red;">**Nation du Feu**</mark> et apparaissez dans la liste de <mark style="color:red;">**Ursa**</mark> mais vous n'obtenez pas son pseudo.
 {% endhint %}
 
+{% hint style="info" %}
+Vous êtes le seul rôle de la partie à ne pas être affecté par la limite de 1 <mark style="color:yellow;">**Esprit**</mark>, vous pouvez en avoir sans aucune limite.
+{% endhint %}
+
 {% hint style="warning" %}
 Grâce à votre <mark style="color:red;">**Chirchou**</mark> vous pouvez traquer n'importe quel joueur que vous avez déjà croiser.
 {% endhint %}

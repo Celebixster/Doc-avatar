@@ -13,7 +13,7 @@ Vous obtenez l'identité de <mark style="color:yellow;">**Poppy**</mark> à l'an
 {% endhint %}
 
 {% hint style="success" %}
-Vous pouvez également activez l'effet <mark style="color:blue;">**Résistance II**</mark> pendant 1 minute 30 par épisode&#x20;
+Vous pouvez également activez l'effet <mark style="color:blue;">**Résistance II**</mark> pendant 2 minute par partie, il se régénère de 10 secondes par assist et 15 par élimination. (Ne peut pas dépasser le temps de 2 minutes dans la banque de temps)&#x20;
 
 {% hint style="danger" %}
 Ce pouvoir **ne se cumule pas si il n'est pas utilisé**, de plus **ce pouvoir désactivera votre effet **<mark style="color:red;">**Force I**</mark>** si vous n'êtes pas **<mark style="color:orange;">**Duo**</mark>.
