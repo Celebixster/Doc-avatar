@@ -67,6 +67,7 @@
   * [Jet](alliance-des-autres-nations/role-solitaire/jet.md)
   * [Hama](alliance-des-autres-nations/role-solitaire/hama.md)
   * [June](alliance-des-autres-nations/role-solitaire/june.md)
+  * [Koh](alliance-des-autres-nations/role-solitaire/koh.md)
 
 ## Particularités
 
