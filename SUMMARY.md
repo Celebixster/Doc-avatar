@@ -80,4 +80,5 @@
   * [Les parchemins élémentaires](particularites/particularites/les-parchemins-elementaires.md)
   * [Le Lotus Blanc](particularites/particularites/le-lotus-blanc.md)
   * [Les Conditions de Victoire](particularites/particularites/les-conditions-de-victoire.md)
+  * [Event](particularites/particularites/event.md)
   * [Table des effets](particularites/particularites/table-des-effets.md)
